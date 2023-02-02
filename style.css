@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background: linear-gradient(rgba(5, 5, 5, 0.7), rgba(7, 7, 7, 0.7)), url('./image/colaborateur.jpg') center center fixed no-repeat;
+    background-size: cover;
+}
+.banner{
+    background: linear-gradient(rgba(5, 5, 5, 0.5), rgba(7, 7, 7, 0.5)), url('./image/colaborateur.jpg') center center fixed no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.logo{
+    font-size: x-large;
+    color: #fff;
+    font-weight: 900;
+}
+.titrebann{
+    font-size: xx-large;
+    color: #fff;
+    font-weight: 900;
+    letter-spacing: 7px;
+}   
+.btn-default{
+    background-color: orange;
+    border-radius: 50px;
+    color: #fff;
+}
+.btn-default:hover{
+    background-color: #fff;
+    color: orange;
+    border-radius: 50px;
+    border: 2px solid orange;
+}
+.btn-default1{
+    border: 1px solid #fff;
+    border-radius: 50px;
+}
+.btn-default1:hover{
+    border: 2px solid orange;
+    border-radius: 50px;
+}
+.bande{
+    position: relative;
+   
+
+    bottom: 50px;
+    height: 100px;
+    background-color: #fff;
+    
+}
+.colorbande{
+    background: #252B42;
+}
+.couverture{
+    background: #252B42;
+}
+.vector3{
+    background: #0D5C63;
+}
+.btn-default2{
+    border: 1px solid #0D5C63;
+    color:#0D5C63 ;
+    border-radius: 50px;
+}
+.btn-default3{
+    border: 1px solid #fff;
+    color:#0D5C63 ;
+    background: #fff;
+    border-radius: 50px;
+}
+.explic{
+    background: #252B42;
+    color: #fff;
+}
+.titre{
+    font-size: xx-large;
+}
+.imground{
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
+.equipe{
+    background: #283052;
+}
+.monde{
+    background: #004066;
+}
+.copyrigth{
+    background: #1992d8;
+}
+.form{
+    position: relative;
+    bottom: 113px;
+    border: 1px solid black;
+}
+.entrepreneur1{
+    object-fit: cover;
+}
